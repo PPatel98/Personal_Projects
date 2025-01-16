@@ -4,4 +4,4 @@ A collection of all of my projects from [DataCamp](https://www.datacamp.com/port
 
 | Project | Description |
 | --- | --- |
-| 'Cycalistic' | Analyze differences within a 2 year period to find ways to bring in permanant customers. |
+| `Cycalistic` | Analyze differences within a 2 year period to find ways to bring in permanant customers. |
